@@ -1,1 +1,1 @@
-# migration-fron-EKS-to-GCP
+# migration-from-EKS-to-GCP
